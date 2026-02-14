@@ -2,7 +2,7 @@
 
 ## 🎓 About Me
 
-I'm a **Computer Science undergraduate** at **UVSQ Paris-Saclay**. Passionate about complex computational challenges, I'm particularly interested in **Low-level Programming**, **Retro Computing**,**High Performance Computing (HPC)** and **Quantum Computing**.
+I'm a **Computer Science undergraduate** at **UVSQ Paris-Saclay**. Passionate about complex computational challenges, I'm particularly interested in **Low-level Programming**, **Retro Computing**, **High Performance Computing (HPC)** and **Quantum Computing**.
 
 ### 🎯 My Goals
 
