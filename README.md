@@ -1,23 +1,22 @@
-# 👋 Hi, I'm Robert Folga!
+# 👋 Hi, I'm Robert !
 
-## 🎓 About Me
+## About Me
 
-I'm a **Computer Science undergraduate** at **UVSQ Paris-Saclay**. Passionate about complex computational challenges, I'm particularly interested in **Low-level Programming**, **Retro Computing**, **High Performance Computing (HPC)**.
+I'm a **Computer Science undergraduate** at **UVSQ Paris-Saclay**. I'm particularly interested in **Computing Problems**, **Graph Theory**, **C & Rust programming** and **Compilers**.
 
-### 🎯 My Goals
+### My Goals
 
-- 🚀 Pursue a **Master's degree** in high performance computing or quantum computing
-- 💡 Deepen my knowledge in low-level computing, parallel architectures and quantum algorithms
-- 🔬 Contribute to research projects in scientific computing
+-  Pursue a **Master's degree** in algorithms.
+-  Deepen my knowledge in low-level computing.
+-  Contribute to research projects.
 
-### 💻 Interests
+### Interests
+-  Algorithmic problems
+-  NP Problems
+-  Algorithmic optimization
+-  Compilers
 
-- ⚡ **High Performance Computing**: Optimization, parallelization, distributed computing, Low-level Programming & Computing
-- 🧮 Scientific computing and numerical simulation
-- 📊 Algorithmic optimization
-- ⚙️ Retro Computing
-
-### 🛠️ Technologies & Skills
+### Skills
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white)
