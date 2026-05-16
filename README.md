@@ -26,9 +26,9 @@ I'm a **Computer Science undergraduate** at **UVSQ Paris-Saclay**. I'm particula
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-### 📫 Contact Me
+### Contact Me
 
-- 📧 Email: robert.folga@ens.uvsq.fr
-- 💼 LinkedIn: www.linkedin.com/in/robert-folga-924674269
+- Email: robert.folga@ens.uvsq.fr
+- LinkedIn: www.linkedin.com/in/robert-folga-924674269
 
 ---
