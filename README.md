@@ -6,7 +6,7 @@ I'm a **Computer Science undergraduate** at **UVSQ Paris-Saclay**. I'm particula
 
 ### My Goals
 
--  Pursue a **Master's degree** in algorithms.
+-  Pursue a **Master's degree** in Algorithms, HPC or Quantum Computing.
 -  Deepen my knowledge in low-level computing.
 -  Contribute to research projects.
 
