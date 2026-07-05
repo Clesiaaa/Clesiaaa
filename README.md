@@ -12,7 +12,7 @@ I'm a **Computer Science undergraduate** at **UVSQ Paris-Saclay**. I'm particula
 
 ### Interests
 -  Algorithmic problems
--  NP Problems
+-  OS Dev
 -  Algorithmic optimization
 -  Compilers
 
