@@ -28,6 +28,7 @@ I'm a **Computer Science undergraduate** at **UVSQ Paris-Saclay**. I'm particula
 
 ### Contact Me
 
+- Me : https://clesiaaa.github.io/cv/index.html
 - Email: robert.folga@ens.uvsq.fr
 - LinkedIn: www.linkedin.com/in/robert-folga-924674269
 
