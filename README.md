@@ -2,7 +2,7 @@
 
 ## About Me
 
-I'm a **Computer Science undergraduate** at **UVSQ Paris-Saclay**. I'm particularly interested in **Computing Problems**, **Graph Theory**, **C & Rust programming** and also **Compilers**.
+I'm a **Computer Science undergraduate** at **UVSQ Paris-Saclay**. I'm particularly interested in **Operating Systems**, **Graph Theory**, **C & Rust programming** and also **Compilers**.
 
 ### Skills
 
