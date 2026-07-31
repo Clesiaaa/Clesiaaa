@@ -4,18 +4,6 @@
 
 I'm a **Computer Science undergraduate** at **UVSQ Paris-Saclay**. I'm particularly interested in **Computing Problems**, **Graph Theory**, **C & Rust programming** and also **Compilers**.
 
-### My Goals
-
--  Pursue a **Master's degree** in Algorithms, HPC or Quantum Computing.
--  Deepen my knowledge in low-level computing.
--  Contribute to research projects.
-
-### Interests
--  Algorithmic problems
--  OS Dev
--  Algorithmic optimization
--  Compilers
-
 ### Skills
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
